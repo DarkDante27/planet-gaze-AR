@@ -1,24 +1,5 @@
-# README
+# Planet Gaze AR Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Take your big screens and your mobile device to see the planets and their information closer than ever, Planet Gaze AR will let you see official 3D models coming from NASA's website.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+More info coming soon!
